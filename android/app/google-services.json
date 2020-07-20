@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422528072113",
+    "firebase_url": "https://flutter-first-22bcd.firebaseio.com",
+    "project_id": "flutter-first-22bcd",
+    "storage_bucket": "flutter-first-22bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422528072113:android:852c28f55bc3880d0b6590",
+        "android_client_info": {
+          "package_name": "co.appbrewery.micard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422528072113-g5g5d7ufgohu4766i5uf1lrchjeod59p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLGf6dLM_cralgF55mwHmELL2DFW839k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422528072113-g5g5d7ufgohu4766i5uf1lrchjeod59p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
